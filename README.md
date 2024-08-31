@@ -1,4 +1,4 @@
-### Tooth Time Initial Mockup
+# Tooth Time Initial Mockup
 
 Tooth Time Initial Mockup is a Flutter project designed to showcase a preliminary user interface (UI) for a dental care application. This project demonstrates the use of various Flutter widgets and tools to create a functional and visually appealing UI.
 
@@ -13,7 +13,7 @@ Android Studio: The integrated development environment (IDE) used for Flutter de
 ## Challenges Faced
 Throughout the development of this project, several challenges were encountered:
 
-# Widget Customization:
+## Widget Customization:
 * Creating custom widgets to fit the design specifications and ensuring they work seamlessly across different screen sizes.
 * Responsive Design: Ensuring the UI is responsive and looks good on various devices and orientations.
 
